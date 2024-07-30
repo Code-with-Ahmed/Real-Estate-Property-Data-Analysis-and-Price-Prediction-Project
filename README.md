@@ -91,4 +91,4 @@ algorithms to improve accuracy.
 - Databricks Community Edition
 
 ## Acknowledgements
-Thanks to the [InternnCraft]([https://www.linkedin.com/company/your-institution-link](https://www.linkedin.com/company/internncraft)) platform for the opportunity to work on this project. And also thanks to thw whole data community for their resources and support, and to Databricks for providing the platform.
+Thanks to the [InternnCraft](https://www.linkedin.com/company/internncraft) platform for the opportunity to work on this project. And also thanks to thw whole data community for their resources and support, and to Databricks for providing the platform.
