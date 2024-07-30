@@ -1,0 +1,2 @@
+# Real-Estate-Property-Data-Analysis-and-Price-Prediction-Project
+This project analyzes a real estate property dataset using PySpark and Spark SQL on Databricks. It includes data exploration, feature engineering, outlier detection, and price prediction. The dataset comprises property attributes like type, price, location, and more. The project provides insights, model evaluations, and future analysis.
